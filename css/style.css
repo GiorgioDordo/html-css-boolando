@@ -94,3 +94,17 @@ a {
     top: 10px;
     right: 0px;
 }
+
+/* FOOTER */
+
+.box-footer {
+    min-height: 80px;
+    background-color: rgb(26,26,26);
+}
+
+.container-footer {
+    max-width: 1200px;
+    min-height: 80px;
+    background-color: grey;
+    margin: 0 auto;
+}
